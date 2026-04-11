@@ -15,7 +15,7 @@ https://www.figma.com/design/ls8TsjR4Z3RidIIQZHDiZJ/Blood-Bank--Community-?node-
 
 
 
-## PRINTS 
+## PRINTS ABAIXO
 
 
 ## TERMINAL 
@@ -24,4 +24,4 @@ https://www.figma.com/design/ls8TsjR4Z3RidIIQZHDiZJ/Blood-Bank--Community-?node-
 
 
 ## APLICAÇAO 
-![alt text](image-1.png)
+![alt text](image-2.png)
