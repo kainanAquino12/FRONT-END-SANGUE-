@@ -1,0 +1,14 @@
+.page { padding: 24px; }
+.page h2 { font-size: 18px; font-weight: 500; color: #333; margin-bottom: 20px; }
+.cards-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.blood-card { border-radius: 12px; padding: 16px; }
+.blood-card.pink { background: #fce4ec; }
+.blood-card.blue { background: #e3f2fd; }
+.blood-card.green { background: #e8f5e9; }
+.card-top { display: flex; justify-content: space-between; margin-bottom: 8px; }
+.tipo { font-size: 15px; font-weight: 500; color: #C0392B; }
+.local { font-size: 11px; color: #888; }
+.label { font-size: 11px; color: #888; margin-bottom: 4px; }
+.total { font-size: 24px; font-weight: 500; color: #C0392B; }
+.blood-card.blue .tipo, .blood-card.blue .total { color: #1565C0; }
+.blood-card.green .tipo, .blood-card.green .total { color: #2E7D32; }
